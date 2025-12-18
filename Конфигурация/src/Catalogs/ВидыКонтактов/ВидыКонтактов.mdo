@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16f23337-5469-4dc1-8af7-789c75d757ee">
+  <producedTypes>
+    <objectType typeId="5c3c25bc-b852-40ce-ae64-911973aba52a" valueTypeId="3165c16d-3e65-4b2d-93ce-a8d881c08246"/>
+    <refType typeId="96730b38-7a88-4f32-b2fd-86d5397f179a" valueTypeId="bcd444f6-71fc-4e5a-a0d5-614996f8552b"/>
+    <selectionType typeId="5e3da573-3e18-4ed7-9bb7-2ea3c7b1a8bb" valueTypeId="44eeb26a-4085-4177-9601-d57d6386541c"/>
+    <listType typeId="8066268a-75a7-4b0c-a7a8-4806ce31c8d9" valueTypeId="92803239-6d48-49f1-8b5e-9f144eea3822"/>
+    <managerType typeId="11101a3c-9b43-452c-a553-9ace7f119042" valueTypeId="0835349b-720f-487b-bb81-6f3b54dd8b30"/>
+  </producedTypes>
+  <name>ВидыКонтактов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды контактов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВидыКонтактов.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВидыКонтактов.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e7f0536f-512f-44b0-9bc3-6f2bcccbd527">
+  <producedTypes>
+    <objectType typeId="97f5d72c-aae0-43f8-bded-692523e8e02e" valueTypeId="c2235f32-7d8b-4fae-94b5-362dffb5fe8b"/>
+    <refType typeId="0b405e34-ebb0-458c-898a-6eae5bc443b0" valueTypeId="4e9b8085-f0cb-4a52-b1ae-fa1e1cc9bba5"/>
+    <selectionType typeId="9e330cfb-dc85-4b96-a29e-4de60dab1e9d" valueTypeId="b1dc9058-087c-48a8-b390-03dd22d2c9cf"/>
+    <listType typeId="9341ac7b-2b50-493d-9b93-5638059ce9ee" valueTypeId="4b7e2664-a53c-4272-b6af-8374ac221e3e"/>
+    <managerType typeId="78c81048-622c-432e-9540-8e4b01e2e418" valueTypeId="d5cd6721-4365-49d2-861b-62339de3020e"/>
+  </producedTypes>
+  <name>Друзья</name>
+  <synonym>
+    <key>ru</key>
+    <value>Друзья</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Друзья.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Друзья.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="2ccd507c-820b-42f4-bcff-f673cc594a3a">
+    <name>Статус</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статус</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.СтатусыДрузей</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

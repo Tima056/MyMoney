@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d3b0e1e5-adcf-4f85-a908-1de68f500fdf">
+  <producedTypes>
+    <objectType typeId="283b8c7f-7ef9-4dec-9afe-962f9363960f" valueTypeId="53bfc6e3-07e2-444b-bbe3-4b8601423ee6"/>
+    <refType typeId="f550dd60-7d84-4233-b23c-802fe1fa4de8" valueTypeId="dfca3c16-a260-43b5-966c-98ea81a9f069"/>
+    <selectionType typeId="1f81a9c0-2af7-41e1-b566-96866530346a" valueTypeId="5554e479-524a-447b-971e-a51430a0a0da"/>
+    <listType typeId="ab25afdb-370c-4773-9b08-f0925faa27e2" valueTypeId="81d693ed-68ee-4334-a7f5-cd4c743795cb"/>
+    <managerType typeId="f860a436-e183-4286-9cc1-ef313377b753" valueTypeId="a067fe67-1d1b-4c75-8bbb-9a65682774a5"/>
+  </producedTypes>
+  <name>СтатусыДрузей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статусы друзей</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СтатусыДрузей.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СтатусыДрузей.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

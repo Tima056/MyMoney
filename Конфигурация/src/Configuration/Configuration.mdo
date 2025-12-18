@@ -38,4 +38,10 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Контакты</subsystems>
+  <subsystems>Subsystem.События</subsystems>
+  <subsystems>Subsystem.Финансы</subsystems>
+  <catalogs>Catalog.ВидыКонтактов</catalogs>
+  <catalogs>Catalog.Друзья</catalogs>
+  <catalogs>Catalog.СтатусыДрузей</catalogs>
 </mdclass:Configuration>

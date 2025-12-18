@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3d90dd20-e82d-44bb-8426-9ece1b51a4e8">
+  <name>Контакты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контакты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.ВидыКонтактов</content>
+  <content>Catalog.Друзья</content>
+  <content>Catalog.СтатусыДрузей</content>
+</mdclass:Subsystem>
