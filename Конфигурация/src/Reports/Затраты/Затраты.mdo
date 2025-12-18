@@ -10,11 +10,12 @@
     <value>Затраты</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <templates uuid="f9eace2b-8001-4549-8a3d-b304b2348e43">
-    <name>Макет</name>
+  <mainDataCompositionSchema>Report.Затраты.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="916eeb8b-b9c9-46b9-bdde-258d6b8438bf">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
       <key>ru</key>
-      <value>Макет</value>
+      <value>Основная схема компоновки данных</value>
     </synonym>
     <templateType>DataCompositionSchema</templateType>
   </templates>
