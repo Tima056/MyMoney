@@ -7,4 +7,6 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.События</content>
+  <content>Catalog.СтатусыСобытий</content>
 </mdclass:Subsystem>

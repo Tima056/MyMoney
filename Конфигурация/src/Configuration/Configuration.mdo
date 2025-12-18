@@ -43,5 +43,7 @@
   <subsystems>Subsystem.Финансы</subsystems>
   <catalogs>Catalog.ВидыКонтактов</catalogs>
   <catalogs>Catalog.Друзья</catalogs>
+  <catalogs>Catalog.События</catalogs>
   <catalogs>Catalog.СтатусыДрузей</catalogs>
+  <catalogs>Catalog.СтатусыСобытий</catalogs>
 </mdclass:Configuration>
