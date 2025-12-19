@@ -45,10 +45,13 @@
   <catalogs>Catalog.ВидыКонтактов</catalogs>
   <catalogs>Catalog.Друзья</catalogs>
   <catalogs>Catalog.События</catalogs>
+  <catalogs>Catalog.СправочникDemoConfDT</catalogs>
   <catalogs>Catalog.СтатусыДрузей</catalogs>
   <catalogs>Catalog.СтатусыСобытий</catalogs>
+  <documents>Document.ДокументDemoConfDT</documents>
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.РасходДенег</documents>
+  <enums>Enum.ПеречислениеDemoConfDT</enums>
   <reports>Report.ГрафикПоДням</reports>
   <reports>Report.Затраты</reports>
   <reports>Report.СколькоДенег</reports>
