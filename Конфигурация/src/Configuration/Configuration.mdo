@@ -41,6 +41,7 @@
   <subsystems>Subsystem.Контакты</subsystems>
   <subsystems>Subsystem.События</subsystems>
   <subsystems>Subsystem.Финансы</subsystems>
+  <constants>Constant.DemoConfDT</constants>
   <catalogs>Catalog.ВидыКонтактов</catalogs>
   <catalogs>Catalog.Друзья</catalogs>
   <catalogs>Catalog.События</catalogs>
