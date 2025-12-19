@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="558f389a-a609-4994-99a1-3eeeb16d14fe">
+  <producedTypes>
+    <refType typeId="d843a2e3-a896-44df-ab61-33dfbd1cc00b" valueTypeId="68a15da4-ca12-430a-bb7b-d36414baf815"/>
+    <listType typeId="7c259f5c-b2b7-4c30-a35e-3c32b7f78a86" valueTypeId="dc4e16e8-2730-41ec-91df-5b8d4d2cd64e"/>
+    <managerType typeId="c13c0270-5601-4d4e-9c8e-0b47d1ea1fd0" valueTypeId="3cfadb29-a85e-4b9f-a114-6d4300167904"/>
+  </producedTypes>
+  <name>ПеречислDemo</name>
+  <synonym>
+    <key>ru</key>
+    <value>Перечисл demo</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

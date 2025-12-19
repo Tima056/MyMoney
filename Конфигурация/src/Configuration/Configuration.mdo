@@ -52,6 +52,7 @@
   <documents>Document.ДокументDemoConfDT</documents>
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.РасходДенег</documents>
+  <enums>Enum.ПеречислDemo</enums>
   <enums>Enum.ПеречислениеDemoConfDT</enums>
   <reports>Report.ГрафикПоДням</reports>
   <reports>Report.Затраты</reports>
