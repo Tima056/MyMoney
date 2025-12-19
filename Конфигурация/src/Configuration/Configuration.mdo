@@ -48,6 +48,7 @@
   <catalogs>Catalog.СправочникDemoConfDT</catalogs>
   <catalogs>Catalog.СтатусыДрузей</catalogs>
   <catalogs>Catalog.СтатусыСобытий</catalogs>
+  <documents>Document.ДокумDemo</documents>
   <documents>Document.ДокументDemoConfDT</documents>
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.РасходДенег</documents>
